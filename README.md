@@ -28,7 +28,7 @@ I feature my projects on GitHub - if you're interested and only have 2 minutes, 
 
 ---
 
-![](https://komarev.com/ghpvc/?username=MarcinCzerkas&style=flat-square&base=250&label=VIEWS)
+![](https://komarev.com/ghpvc/?username=MarcinCzerkas&style=flat-square&label=VIEWS)
 
 <!--
 **MarcinCzerkas/MarcinCzerkas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
