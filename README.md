@@ -13,7 +13,7 @@ I feature my projects on GitHub - if you're interested and only have 2 minutes, 
 
 ## 🛠️ Tech stack
 
-[![](https://skillicons.dev/icons?i=sql,postgres,sqlserver,powerbi,dax,powerquerym,python,excel,vba,git,github,vscode)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=postgres,microsoftsqlserver,powerbi,dax,powerquerym,python,excel,vba,git,github,vscode)](https://skillicons.dev)
 
 ---
 
