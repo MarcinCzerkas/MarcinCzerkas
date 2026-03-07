@@ -1,4 +1,29 @@
-## Hi there 👋
+## Hi there, I'm Marcin 👋
+
+I'm a data enthusiast.
+
+These are the things I like doing:
+
+- 👫👨‍🍼 dedicating my free time to my wife and my daughter
+- 👨‍💻📊 working on data projects
+- 📖📚 reading books
+- 🎲♟️ playing my favourite tabletop game with friends
+
+I feature my projects on GitHub - if you're interested and only have 2 minutes, [check them here](https://github.com/MarcinCzerkas/Portfolio)!
+
+## 🛠️ Tech stack
+
+- SQL
+- PostgreSQL
+- Microsoft SQL Server
+- Power BI
+- DAX
+- Power Query M
+- Python (Pandas, Matplotlib, Requests)
+- Excel
+- VBA
+- Git
+- GitHub
 
 <!--
 **MarcinCzerkas/MarcinCzerkas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
