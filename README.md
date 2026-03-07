@@ -8,6 +8,7 @@ These are the things I like doing:
 - 👨‍💻📊 working on data projects
 - 📖📚 reading books
 - 🎲♟️ playing my favourite tabletop game with friends
+- 🔬👨‍🎓 constantly upskilling in working with data through courses and tutorials
 
 I feature my projects on GitHub - if you're interested and only have 2 minutes, [check them here](https://github.com/MarcinCzerkas/Portfolio)!
 
