@@ -13,7 +13,18 @@ I feature my projects on GitHub - if you're interested and only have 2 minutes, 
 
 ## 🛠️ Tech stack
 
-[![](https://skillicons.dev/icons?i=postgres,microsoftsqlserver,powerbi,dax,powerquerym,python,excel,vba,git,github,vscode)](https://skillicons.dev)
+- SQL
+- PostgreSQL
+- Microsoft SQL Server
+- Power BI
+- DAX
+- Power Query M
+- Python (Pandas, Matplotlib, Requests)
+- Excel
+- VBA
+- Git
+- GitHub
+- VSCode
 
 ---
 
