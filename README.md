@@ -2,7 +2,7 @@
 
 I'm a data enthusiast passionate about topics like data analysis, business intelligence, ETL and data modeling.
 
-I currently work as a Quantitative Expert in a Risk department (banking sector). I dig into the data warehouse, work with statistical models and detect anomalies in data to help protect the company from financial risk.
+I currently work as a Quantitative Expert in a Risk department (banking sector). I regularly dig into the data warehouse, work with statistical models and detect anomalies in data to help protect the company from financial risk.
 
 These are the things I like doing:
 - 👫👨‍🍼 dedicating my free time to my wife and my daughter
@@ -12,6 +12,8 @@ These are the things I like doing:
 - 🔬👨‍🎓 constantly upskilling in working with data through courses and tutorials
 
 I feature my projects on GitHub - if you're interested and only have 2 minutes, [check them here](https://github.com/MarcinCzerkas/Portfolio)!
+
+I also have a [LinkedIn profile](https://linkedin.com/in/marcin-czerkas-95150727a) with **1.000+ followers** where I regularly post about my projects and other data-oriented topics.
 
 ## 🛠️ Tech stack
 
