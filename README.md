@@ -1,8 +1,8 @@
 ## Hi there, I'm Marcin 👋
 
-I'm a data enthusiast passionate about topics like data analysis, business intelligence, ETL and data modeling.
+I'm a data enthusiast passionate about bridging data analytics, quantitative methods and modern data architectures.
 
-I currently work as a Quantitative Analyst in a Risk department (banking sector). I regularly dig into the data warehouse, work with statistical models and detect anomalies in data to help protect the company from financial risk.
+I currently work as a Quantitative Data Analyst in a Risk department (banking sector). I validate and challenge predictive statistical models, build analytical solutions and detect anomalies in data to help protect the company from financial risk.
 
 These are the things I like doing:
 - 👫👨‍🍼 dedicating my free time to my wife and my daughter
